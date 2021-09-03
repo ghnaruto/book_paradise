@@ -1,7 +1,7 @@
 index:1,title:ရင်ခုန်ရစ်မူး မင်္ဂလာဦး,picture:Pictures/1.jpg,popular:no
 index:2,title:မောင့်ရဲ့ မြလေး,picture:Pictures/2.jpg,popular:no
-index:3,title:ထပ်လုပ်ပေးဦးနော်,picture:Pictures/3.jpg,popular:yes
-index:4,title:အဝစား ဟင်းပေါင်းအိုးကြီး,picture:Pictures/4.jpg,popular:yes
+index:3,title:ထပ်လုပ်ပေးဦးနော်,picture:Pictures/3.jpg,popular:no
+index:4,title:အဝစား ဟင်းပေါင်းအိုးကြီး,picture:Pictures/4.jpg,popular:no
 index:5,title:ပြည့်ပြည့်ဝဝပြီးခဲ့ရပါတယ်,picture:Pictures/5.jpg,popular:yes
 index:6,title:အခွင့်အခါ သင့်လေတော့,picture:Pictures/6.jpg,popular:yes
 index:7,title:အရင်းနှီးဆုံးပန်းတစ်ပွင့်,picture:Pictures/7.jpg,popular:yes
@@ -28,9 +28,9 @@ index:27,title:အစားထိုးခံစားရသူ,picture:Pictures
 index:28,title:စိတ်လျော့ထား ခနပဲနော်,picture:Pictures/28.jpg,popular:yes
 index:29,title:သူဌေးသမီး,picture:Pictures/29.jpg,popular:yes
 index:30,title:အစ်ကိုလိုးမယ်ဆိုအသင့်ပါ,picture:Pictures/30.jpg,popular:yes
-index:31,title:တရက်နဲ့တည,picture:Pictures/31.jpg,popular:no
-index:32,title:ဆာနေကြသူများ,picture:Pictures/32.jpg,popular:no
-index:33,title:ခံရမသက်သာသော,picture:Pictures/33.jpg,popular:no
+index:31,title:တရက်နဲ့တည,picture:Pictures/31.jpg,popular:yes
+index:32,title:ဆာနေကြသူများ,picture:Pictures/32.jpg,popular:yes
+index:33,title:ခံရမသက်သာသော,picture:Pictures/33.jpg,popular:yes
 index:34,title:အကောင်းဆုံးသော,picture:Pictures/34.jpg,popular:no
 index:35,title:အပျိုစင်မေသူ,picture:Pictures/35.jpg,popular:no
 index:36,title:အစကတွေ့ခဲ့ရင်,picture:Pictures/36.jpg,popular:no
@@ -68,3 +68,8 @@ index:67,title:လှလှနဲ့ယောက္ခထီး – ပထမပ
 index:68,title:အရမ်းမကြမ်းနဲ့ဦးရယ်,picture:Pictures/68.jpg,popular:no
 index:69,title:အသက်ကြီးမှ ပါကင်ဖောက်ရသော,picture:Pictures/69.jpg,popular:no
 index:70,title:ဆရာစိတ်ကြိုက်လုပ်ပါနော်,picture:Pictures/70.jpg,popular:no
+index:71,title:၁၆နှစ်သား ရဲ့ အတွေ့ကြုံ,picture:Pictures/71.jpg,popular:no
+index:72,title:ပြော မ ဆုံးပေါင်,picture:Pictures/72.jpg,popular:no
+index:73,title:အချစ် ဒဏ်ရာ,picture:Pictures/73.jpg,popular:no
+index:74,title:နှစ်သိမ့် ဆုလေး စု,picture:Pictures/74.jpg,popular:no
+index:75,title:စိတ်ကြိုက် ဆွဲ,picture:Pictures/75.jpg,popular:no
