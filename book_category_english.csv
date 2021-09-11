@@ -1,5 +1,6 @@
 index:1000,title:The Chapel,picture:Pictures/1.jpg,popular:no
 index:1001,title:Car journey,picture:Pictures/2.jpg,popular:no
-index:1001,title:Exam time,picture:Pictures/3.jpg,popular:no
-index:1001,title:Exam time,picture:Pictures/4.jpg,popular:no
-index:1001,title:Exam time,picture:Pictures/5.jpg,popular:yes
+index:1002,title:Exam time,picture:Pictures/3.jpg,popular:no
+index:1003,title:Shopping trip,picture:Pictures/4.jpg,popular:yes
+index:1004,title:Rainy Day,picture:Pictures/5.jpg,popular:yes
+index:1005,title:Camping,picture:Pictures/6.jpg,popular:yes
