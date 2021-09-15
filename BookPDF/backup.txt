@@ -1,0 +1,75 @@
+index:1,title:ရင်ခုန်ရစ်မူး မင်္ဂလာဦး,picture:Pictures/1.jpg,popular:no
+index:2,title:မောင့်ရဲ့ မြလေး,picture:Pictures/2.jpg,popular:no
+index:3,title:ထပ်လုပ်ပေးဦးနော်,picture:Pictures/3.jpg,popular:no
+index:4,title:အဝစား ဟင်းပေါင်းအိုးကြီး,picture:Pictures/4.jpg,popular:no
+index:5,title:ပြည့်ပြည့်ဝဝပြီးခဲ့ရပါတယ်,picture:Pictures/5.jpg,popular:yes
+index:6,title:အခွင့်အခါ သင့်လေတော့,picture:Pictures/6.jpg,popular:yes
+index:7,title:အရင်းနှီးဆုံးပန်းတစ်ပွင့်,picture:Pictures/7.jpg,popular:yes
+index:8,title:အန်တီကလည်းမအော်ဘူးဗျာ,picture:Pictures/8.jpg,popular:yes
+index:9,title:ပညာစွမ်း,picture:Pictures/9.jpg,popular:yes
+index:10,title:ကျမနဲ့အသစ်အဆန်း,picture:Pictures/10.jpg,popular:yes
+index:11,title:တော်တော်ဆိုးတဲ့ကောင်လေး,picture:Pictures/11.jpg,popular:yes
+index:12,title:ကောင်းလိုက်တာမကြီးရာ,picture:Pictures/12.jpg,popular:yes
+index:13,title:ကျမစိတ်တွေယိမ်းနေပြီ,picture:Pictures/13.jpg,popular:yes
+index:14,title:အနမ်းများကိုခံယူရင်း,picture:Pictures/14.jpg,popular:yes
+index:15,title:အပေါက်စုံအလိုးခံသူလေး,picture:Pictures/15.jpg,popular:yes
+index:16,title:အတုမြင် အတတ်သင်,picture:Pictures/16.jpg,popular:yes
+index:17,title:ကျနော့ဘ၀ ရမက်ကြမ်း,picture:Pictures/17.jpg,popular:yes
+index:18,title:အပျိုစင်လုံမေချော,picture:Pictures/18.jpg,popular:yes
+index:19,title:အနမ်းကြမ်းများဖြင့် မိတ်ဆက်နေကြပြီ,picture:Pictures/19.jpg,popular:yes
+index:20,title:ငါ့တူမထက်နင်ကပိုအပေးကောင်းတယ်,picture:Pictures/20.jpg,popular:yes
+index:21,title:ခြင်္သေ့ရှေ့ အစားခံရန် ရောက်ရှိလာသောသမင်ငယ်လေး,picture:Pictures/21.jpg,popular:yes
+index:22,title:အံကိုကြိတ်လျက်တောင့်ခံနေလေသည်,picture:Pictures/22.jpg,popular:yes
+index:23,title:မငြင်းနဲ့နော် (နင်ဘယ်ကောင်နဲ့ခံနေလဲ),picture:Pictures/23.jpg,popular:yes
+index:24,title:ဘေးအိမ်ကအန်တီခင်မေ,picture:Pictures/24.jpg,popular:yes
+index:25,title:အဘပေါင်ပေါ်ခနလှဲမယ်နော်,picture:Pictures/25.jpg,popular:yes
+index:26,title:သူ့မယားကျနေတာပဲ,picture:Pictures/26.jpg,popular:yes
+index:27,title:အစားထိုးခံစားရသူ,picture:Pictures/27.jpg,popular:yes
+index:28,title:စိတ်လျော့ထား ခနပဲနော်,picture:Pictures/28.jpg,popular:yes
+index:29,title:သူဌေးသမီး,picture:Pictures/29.jpg,popular:yes
+index:30,title:အစ်ကိုလိုးမယ်ဆိုအသင့်ပါ,picture:Pictures/30.jpg,popular:yes
+index:31,title:တရက်နဲ့တည,picture:Pictures/31.jpg,popular:yes
+index:32,title:ဆာနေကြသူများ,picture:Pictures/32.jpg,popular:yes
+index:33,title:ခံရမသက်သာသော,picture:Pictures/33.jpg,popular:yes
+index:34,title:အကောင်းဆုံးသော,picture:Pictures/34.jpg,popular:no
+index:35,title:အပျိုစင်မေသူ,picture:Pictures/35.jpg,popular:no
+index:36,title:အစကတွေ့ခဲ့ရင်,picture:Pictures/36.jpg,popular:no
+index:37,title:သူမစားရန်မွေးထားသော,picture:Pictures/37.jpg,popular:no
+index:38,title:အပျိုလူပျိုစစ်စစ်တွေ,picture:Pictures/38.jpg,popular:no
+index:39,title:အဲစိတ်တစ်ခုပဲရှိ,picture:Pictures/39.jpg,popular:no
+index:40,title:မောင် မဆိုးနဲ့ကွာ,picture:Pictures/40.jpg,popular:no
+index:41,title:ကျူရှင်ဆရာမလေး,picture:Pictures/41.jpg,popular:no
+index:42,title:ချွေးမလေး,picture:Pictures/42.jpg,popular:no
+index:43,title:ထကြွနေသောစိတ်,picture:Pictures/43.jpg,popular:no
+index:44,title:ရင့်ကျက်သူတွေနဲ့,picture:Pictures/44.jpg,popular:no
+index:45,title:ကိုးတန်းကျောင်းသူ,picture:Pictures/45.jpg,popular:no
+index:46,title:ရွှေနှစ်ရွှေနဲ့,picture:Pictures/46.jpg,popular:no
+index:47,title:သူငယ်ချင်းမလေးကိုစိတ်ကြိုက်ဆွဲ-ပထမပိုင်း,picture:Pictures/47.jpg,popular:no
+index:48,title:အပျိုကြီးဆိုပေမဲ့ အပေးကောင်းတယ်ဗျ,picture:Pictures/48.jpg,popular:no
+index:49,title:ခပ်ထန်ထန်ကောင်မလေး,picture:Pictures/49.jpg,popular:no
+index:50,title:တွေ့တဲ့နေရာမှာ ခံပေးတဲ့မမ,picture:Pictures/50.jpg,popular:no
+index:51,title:သူငယ်ချင်းမလေးကို စိတ်ကြိုက်ဆွဲ – ဒုတိယပိုင်း,picture:Pictures/51.jpg,popular:no
+index:52,title:သူပေးခဲ့တဲ့အချစ်ဒဏ်ရာ,picture:Pictures/52.jpg,popular:no
+index:53,title:မုဆိုးမလေးရဲ့အဖြစ်,picture:Pictures/53.jpg,popular:no
+index:54,title:အပိုင်ဂွင်,picture:Pictures/54.jpg,popular:no
+index:55,title:သာယာနေပါပြီရှင်,picture:Pictures/55.jpg,popular:no
+index:56,title:အရသာထူးကြီး,picture:Pictures/56.jpg,popular:no
+index:57,title:သွား…..လူလည်ကြီး,picture:Pictures/57.jpg,popular:no
+index:58,title:မြင့်ရဲ့ရည်းစား အတွေ့အကြုံ,picture:Pictures/58.jpg,popular:no
+index:59,title:ပြန်ပင့်ပေးတဲ့ မမပွင့်,picture:Pictures/59.jpg,popular:no
+index:60,title:အသုံးဝင်တဲ့ အပေါက်ကလေး,picture:Pictures/60.jpg,popular:no
+index:61,title:လမ်းသွားရင်းတောင် တွေ့မရှောင်,picture:Pictures/61.jpg,popular:no
+index:62,title:လူပျို မောင်ထူး,picture:Pictures/62.jpg,popular:no
+index:63,title:မောင်နှစ်မဝမ်းကွဲ,picture:Pictures/63.jpg,popular:no
+index:64,title:ရည်းစားအတွေ့အကြုံ,picture:Pictures/64.jpg,popular:no
+index:65,title:တော်ပါတော့ဦး သမီးမခံနိုင်တော့ဘူး,picture:Pictures/65.jpg,popular:no
+index:66,title:လှလှနဲ့ယောက္ခထီး – ဒုတိယပိုင်း,picture:Pictures/66.jpg,popular:no
+index:67,title:လှလှနဲ့ယောက္ခထီး – ပထမပိုင်း,picture:Pictures/67.jpg,popular:no
+index:68,title:အရမ်းမကြမ်းနဲ့ဦးရယ်,picture:Pictures/68.jpg,popular:no
+index:69,title:အသက်ကြီးမှ ပါကင်ဖောက်ရသော,picture:Pictures/69.jpg,popular:no
+index:70,title:ဆရာစိတ်ကြိုက်လုပ်ပါနော်,picture:Pictures/70.jpg,popular:no
+index:71,title:၁၆နှစ်သား ရဲ့ အတွေ့ကြုံ,picture:Pictures/71.jpg,popular:no
+index:72,title:ပြော မ ဆုံးပေါင်,picture:Pictures/72.jpg,popular:no
+index:73,title:အချစ် ဒဏ်ရာ,picture:Pictures/73.jpg,popular:no
+index:74,title:နှစ်သိမ့် ဆုလေး စု,picture:Pictures/74.jpg,popular:no
+index:75,title:စိတ်ကြိုက် ဆွဲ,picture:Pictures/75.jpg,popular:no
