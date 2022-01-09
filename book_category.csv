@@ -1,3 +1,13 @@
+index:101,title:ဂျစ်တူး ချစ်ဖူးသွားပြီ,picture:Pictures/40.jpg,popular:yes
+index:102,title:ကျူတာဆရာမ,picture:Pictures/41.jpg,popular:yes
+index:103,title:တော်ပါသေးရဲ့,picture:Pictures/41.jpg,popular:yes
+index:104,title:ကာမဒီရေ,picture:Pictures/43.jpg,popular:yes
+index:105,title:အပျိုစင်လေး,picture:Pictures/44.jpg,popular:yes
+index:106,title:အပေးအယူ,picture:Pictures/45.jpg,popular:yes
+index:107,title:သူတို့သားအမိ,picture:Pictures/46.jpg,popular:yes
+index:108,title:အမိုက်မှောင်,picture:Pictures/47.jpg,popular:yes
+index:109,title:ကုန်းအပေးမှာ အမုန်းဆွဲပေးလိုက်တယ်,picture:Pictures/48.jpg,popular:yes
+index:110,title:စိတ်မထိန်းနိုင်လို့ပါ မမရယ်,picture:Pictures/49.jpg,popular:yes
 index:86,title:သူငယ်ချင်း ညီမ (စ/ဆုံး),picture:Pictures/50.jpg,popular:no
 index:87,title:ပထမ အတွေ့အကြုံ - အမရာမောင် (စ/ဆုံး),picture:Pictures/51.jpg,popular:no
 index:88,title:စုစု,picture:Pictures/52.jpg,popular:no
@@ -13,26 +23,16 @@ index:97,title:ဇရှိမှ ဖြစ်လိမ့်မယ်,picture:P
 index:98,title:ကောင်းမှန်း သိနေတော့လဲ,picture:Pictures/62.jpg,popular:no
 index:99,title:မှဲ့ပါတဲ့ ပေါက်စီ,picture:Pictures/63.jpg,popular:no
 index:100,title:နှင်းနှင်းရယ်,picture:Pictures/64.jpg,popular:no
-index:101,title:ဂျစ်တူး ချစ်ဖူးသွားပြီ,picture:Pictures/40.jpg,popular:no
-index:102,title:ကျူတာဆရာမ,picture:Pictures/41.jpg,popular:no
-index:103,title:တော်ပါသေးရဲ့,picture:Pictures/41.jpg,popular:no
-index:104,title:ကာမဒီရေ,picture:Pictures/43.jpg,popular:no
-index:105,title:အပျိုစင်လေး,picture:Pictures/44.jpg,popular:no
-index:106,title:အပေးအယူ,picture:Pictures/45.jpg,popular:no
-index:107,title:သူတို့သားအမိ,picture:Pictures/46.jpg,popular:no
-index:108,title:အမိုက်မှောင်,picture:Pictures/47.jpg,popular:no
-index:109,title:ကုန်းအပေးမှာ အမုန်းဆွဲပေးလိုက်တယ်,picture:Pictures/48.jpg,popular:no
-index:110,title:စိတ်မထိန်းနိုင်လို့ပါ မမရယ်,picture:Pictures/49.jpg,popular:no
-index:1,title:ရင်ခုန်ရစ်မူး မင်္ဂလာဦး,picture:Pictures/1.jpg,popular:yes
+index:1,title:ရင်ခုန်ရစ်မူး မင်္ဂလာဦး,picture:Pictures/1.jpg,popular:no
 index:2,title:မောင့်ရဲ့ မြလေး,picture:Pictures/2.jpg,popular:no
 index:3,title:ထပ်လုပ်ပေးဦးနော်,picture:Pictures/3.jpg,popular:no
 index:4,title:အဝစား ဟင်းပေါင်းအိုးကြီး,picture:Pictures/4.jpg,popular:no
-index:5,title:ပြည့်ပြည့်ဝဝပြီးခဲ့ရပါတယ်,picture:Pictures/5.jpg,popular:yes
-index:6,title:အခွင့်အခါ သင့်လေတော့,picture:Pictures/6.jpg,popular:yes
-index:7,title:အရင်းနှီးဆုံးပန်းတစ်ပွင့်,picture:Pictures/7.jpg,popular:yes
-index:8,title:အန်တီကလည်းမအော်ဘူးဗျာ,picture:Pictures/8.jpg,popular:yes
+index:5,title:ပြည့်ပြည့်ဝဝပြီးခဲ့ရပါတယ်,picture:Pictures/5.jpg,popular:no
+index:6,title:အခွင့်အခါ သင့်လေတော့,picture:Pictures/6.jpg,popular:no
+index:7,title:အရင်းနှီးဆုံးပန်းတစ်ပွင့်,picture:Pictures/7.jpg,popular:no
+index:8,title:အန်တီကလည်းမအော်ဘူးဗျာ,picture:Pictures/8.jpg,popular:no
 index:9,title:ပညာစွမ်း,picture:Pictures/9.jpg,popular:yes
-index:10,title:ကျမနဲ့အသစ်အဆန်း,picture:Pictures/10.jpg,popular:yes
+index:10,title:ကျမနဲ့အသစ်အဆန်း,picture:Pictures/10.jpg,popular:no
 index:11,title:တော်တော်ဆိုးတဲ့ကောင်လေး,picture:Pictures/11.jpg,popular:yes
 index:12,title:ကောင်းလိုက်တာမကြီးရာ,picture:Pictures/12.jpg,popular:yes
 index:13,title:ကျမစိတ်တွေယိမ်းနေပြီ,picture:Pictures/13.jpg,popular:yes
